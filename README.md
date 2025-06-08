@@ -9,8 +9,8 @@ This project consists of two parts:
 
 
 ## 🔗 Repository Links
-- ([Frontend Repository Link Here](https://github.com/Rima0000/Contact-Form-Frontend))
-- ([Backend Repository Link Here](https://github.com/Rima0000/Contact-Form-Backend))
+- [Frontend Repository Link Here](https://github.com/Rima0000/Contact-Form-Frontend)
+- [Backend Repository Link Here](https://github.com/Rima0000/Contact-Form-Backend)
 
 
 ## ✨ Features
@@ -21,7 +21,7 @@ This project consists of two parts:
 
 
 🌐 Live Demo
-- 👉 ([Live Demo Link Here](https://contact-form-frontend-5xx6.onrender.com/))
+👉 ([Live Demo Link Here](https://contact-form-frontend-5xx6.onrender.com/))
 
 🛠️ Technologies Used
 - React.js ⚛️
