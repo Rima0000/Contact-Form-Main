@@ -23,7 +23,7 @@ This project consists of two parts:
 - Robust error handling on frontend and backend ⚠️
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - React.js ⚛️
 - Node.js & Express.js ⚙️
 - MongoDB 🍃
